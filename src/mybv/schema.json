@@ -1,0 +1,39 @@
+{
+    "assets": {
+        "financial": [
+            {"current_accounts":[
+                "account_1",
+                "account_2"
+            ]},
+            {"savings_accounts":[
+                "account_1",
+                "account_2"
+            ]},
+            {"money_market_funds":[
+                "fund_1"
+            ]},
+            {"bonds":[]},
+            {"shares":[
+                "stock_1",
+                "stock_2"
+            ]}
+        ],
+        "material": [
+            {"cars":[
+                "car_1",
+                "car_2"
+            ]},
+            {"real_estate":[
+                "house_1", 
+                "house_2"
+            ]}
+        ]
+    },
+    "liabilities": [
+        {"bank_loans":[]}
+    ],
+    "equity": [
+        "total",
+        "excl_real_estate"
+    ]
+}
